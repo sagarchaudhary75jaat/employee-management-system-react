@@ -182,7 +182,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💡 Demo
+## 
 
 ## 🎥 Demo Video
 
