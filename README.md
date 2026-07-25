@@ -105,7 +105,7 @@ http://localhost:5173
 
 ### Login Page
 
-
+![image alt](https://github.com/sagarchaudhary75jaat/employee-management-system-react/blob/004528fbf1a08ba61039f90e4aaaf5026a699b30/Screenshot%202026-07-25%20103246.png)
 
 ---
 
