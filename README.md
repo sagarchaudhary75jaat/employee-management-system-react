@@ -184,4 +184,4 @@ This project is licensed under the MIT License.
 
 ## 💡 Demo
 
-Coming Soon...
+[▶ Watch the Demo Video](https://youtu.be/YOUR_VIDEO_ID)
