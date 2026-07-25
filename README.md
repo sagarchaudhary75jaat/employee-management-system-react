@@ -1,16 +1,187 @@
-# React + Vite
+# 🚀 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Employee Management System** built with **React** and **Vite** that enables administrators to assign and manage tasks while employees can track and update their task status through an intuitive dashboard.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 Overview
 
-## React Compiler
+The Employee Management System is a frontend web application designed to simplify employee task management. It provides separate dashboards for administrators and employees, allowing efficient task assignment, monitoring, and progress tracking.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 👨‍💼 Admin Dashboard
+- Secure admin login
+- Create and assign tasks to employees
+- View all employee details
+- Monitor task progress
+- Track completed, active, and failed tasks
+
+### 👨‍💻 Employee Dashboard
+- Secure employee login
+- View assigned tasks
+- Accept or reject tasks
+- Mark tasks as completed
+- Track task status in real-time
+
+### 📊 Task Management
+- Active Tasks
+- New Tasks
+- Completed Tasks
+- Failed Tasks
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| React.js | Frontend Library |
+| Vite | Build Tool |
+| JavaScript (ES6+) | Programming Language |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Local Storage | Data Persistence |
+
+---
+
+## 📂 Project Structure
+
+```
+Employee-Management-System
+│── public/
+│── src/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── utils/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/sagarchaudhary75jaat/employee-management-system-react.git
+```
+
+Go to the project directory
+
+```bash
+cd employee-management-system-react
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Open your browser and visit
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+
+> Add screenshot here
+
+---
+
+### Admin Dashboard
+
+> Add screenshot here
+
+---
+
+### Employee Dashboard
+
+> Add screenshot here
+
+---
+
+## 🎯 Future Improvements
+
+- Backend Integration
+- Database Support (MongoDB/MySQL)
+- JWT Authentication
+- Role-Based Authorization
+- Search Employees
+- Task Filters
+- Notifications
+- Dark Mode
+- Responsive Mobile Design
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add new feature"
+```
+
+4. Push the branch
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+## 👨‍💻 Author
+
+**Sagar Chaudhary**
+
+GitHub: https://github.com/sagarchaudhary75jaat
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 💡 Demo
+
+Coming Soon...
