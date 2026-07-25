@@ -105,7 +105,7 @@ http://localhost:5173
 
 ### Login Page
 
-![image alt](https://github.com/sagarchaudhary75jaat/employee-management-system-react/blob/f2a835c6461442816aff5890d331764c28d596fd/Screenshot%202026-07-25%20103712.png)
+
 
 ---
 
@@ -117,7 +117,7 @@ http://localhost:5173
 
 ### Employee Dashboard
 
-> Add screenshot here
+![image alt](https://github.com/sagarchaudhary75jaat/employee-management-system-react/blob/f2a835c6461442816aff5890d331764c28d596fd/Screenshot%202026-07-25%20103712.png)
 
 ---
 
