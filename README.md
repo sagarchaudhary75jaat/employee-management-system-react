@@ -186,4 +186,4 @@ This project is licensed under the MIT License.
 
 ## 🎥 Demo Video
 
-[▶ Watch the Demo Video](https://raw.githubusercontent.com/sagarchaudhary75jaat/employee-management-system-react/main/Employee-Management_System_SmallSize.mp4)
+[▶ Watch the Demo Video](https://github.com/user-attachments/assets/47a1d7a1-0879-42d6-a065-6ccead56343f)
