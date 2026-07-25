@@ -112,7 +112,7 @@ http://localhost:5173
 ### Admin Dashboard
 
 > Add screenshot here
-
+![image alt](https://github.com/sagarchaudhary75jaat/employee-management-system-react/blob/4ebff308b17ce34356b9397ab47186ad9e055f8c/Screenshot%202026-07-25%20103521.png)
 ---
 
 ### Employee Dashboard
